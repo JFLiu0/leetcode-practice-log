@@ -1,9 +1,8 @@
 ﻿# Problem ID: 01456
-# Title: Maximum Number of Vowels in a Substring of Given Length
-# Category: Sliding Window (Fixed Length)
+# Title: 1456. Maximum Number of Vowels in a Substring of Given Length
+
 # Attempt: 1
-# Initial Result: AC (Accepted)
-# Date: 2025-08-14
+# Initial Result: AC
 
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
