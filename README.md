@@ -18,7 +18,7 @@
 ## 🛠️ Method
 
 - **Main Language**: Python  
-- **Strategy**: Follow **灵茶山艾府 ([LeetCode.cn 分类题单](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/))** For Structured Practice  
+- **Strategy**: Follow **灵茶山艾府 ([如何科学刷题？](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/))** For Structured Practice  
 - **Organization**:  
   - `solutions/` → Store Solved Problems By Category and ID  
   - `logs/` → Monthly Logs & Reflections (`YYYY-MM/README.md`)  
@@ -51,7 +51,7 @@
 solutions/
 ├─ 01_sliding_window_two_pointers/       # 滑动窗口与双指针
 │  ├─ fixed_length/
-│  │  ├─ 01456_try1_AC_20250814.py
+│  │  ├─ 20250814_01_01456_try1_AC
 │  │  └─ ...
 │  ├─ variable_length/
 │  ├─ single_sequence/
@@ -148,16 +148,17 @@ solutions/
 
 ## 📝 File Naming Rules
 
-- Format: `<ProblemID:5 digits>_try<AttemptNumber>_<Result>_<Date>.py`
-- Example: `00001_try1_WA_20250818.py`
+- Format: `<Date:YYYYMMDD>_<DailyIndex:2 digits>_<ProblemID:5 digits>_try<AttemptNumber>_<Result>.py`
+- Example: `20250814_01_01456_try1_AC`
 
 **Important Notes:**
 - The code inside each file is the **correct/accepted version**.
 - The `<Result>` in filename (AC/WA/TLE/...) records the **outcome of my very first submission attempt**.
+- Use REF for `<Result>` if the solution was written **after reading editorials or reference solutions** (not an independent attempt).
 - This way I can track my learning process while still keeping only working solutions in the repository.
 
 ---
 
 ## 🔄 Latest Update
 
-*Last Updated: 2025-08-19*
+*Last Updated: 2025-08-22*
