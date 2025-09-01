@@ -28,7 +28,7 @@
 
 ## 📅 Monthly Progress
 
-- **Aug 2025** → Planned: 100  
+- **Aug 2025** → Total: 116 (Structured Practice: 71 Questions)
 - …
 - **Nov 2025** → Begin **Weekly Contest Summaries**
 - …
@@ -161,4 +161,4 @@ solutions/
 
 ## 🔄 Latest Update
 
-*Last Updated: 2025-08-29*
+*Last Updated: 2025-09-01*
