@@ -6,12 +6,12 @@
 
 ## 🎯 Goals
 
-- **Start Date**: August 2025  
+- **Start Date**: XX 20XX 
 - **Target**:  
-  - Solve **100 Problems Per Month** From August  
-  - Start **LeetCode Weekly Contests** From **November 2025**  
-  - **By March 31, 2026** → Reach **800 Problems Solved**  
-  - **By March 31, 2026** → Achieve **Contest Rating 1800+ (Top 10%)**
+  - Solve **100 Problems Per Month** From XX 
+  - Start **LeetCode Weekly Contests** From **XX 20XX**  
+  - **By XX XX, 2026** → Reach **800 Problems Solved**  
+  - **By XX XX, 2026** → Achieve **Contest Rating 1800+ (Top 10%)**
 
 ---
 
@@ -28,19 +28,19 @@
 
 ## 📅 Monthly Progress
 
-- **Aug 2025** → Total: 116 (Structured Practice: 71 Questions)
+- **XX 20XX** → Total:
 - …
-- **Nov 2025** → Begin **Weekly Contest Summaries**
+- **XX 20XX** → Begin **Weekly Contest Summaries**
 - …
-- **Mar 2026** → Final Milestone: 800 Problems  
+- **XX 20XX** → Final Milestone: 800 Problems  
 
 👉 Detailed Logs Are Available In The [`logs/`](./logs/) Directory.
 
 ---
 
-## 🏆 Weekly Contests (From Nov 2025)
+## 🏆 Weekly Contests (From XX 20XX)
 
-- Contest Logs Will Be Updated Monthly Starting November 2025.  
+- Contest Logs Will Be Updated Monthly Starting XX 20XX.  
 - Each Summary Includes: Contest ID, Score, Ranking
 
 ---
